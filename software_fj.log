@@ -1,3 +1,9 @@
-2026-05-07 11:14:48,212 - ERROR - Error detectado en prueba: Nombre inv醠ido: 'Ya'. M韓imo 3 caracteres.
-2026-05-07 11:28:49,831 - ERROR - Error detectado en prueba: Nombre inv醠ido: 'Ya'. M韓imo 3 caracteres.
-2026-05-07 11:33:56,810 - INFO - Registro manual exitoso: Cliente: yareth (ID: 1010100)
+2026-05-09 19:45:18,302 - INFO - 脡XITO: ID_Cliente 1 reserv贸 Sala de Juntas VIP. Total: $225
+2026-05-09 19:45:18,302 - INFO - 脡XITO: ID_Cliente 2 reserv贸 PC Alta Gama. Total: $105.0
+2026-05-09 19:45:18,303 - ERROR - Error en Reserva: La duraci贸n (-5) es inv谩lida.
+2026-05-09 19:45:18,305 - INFO - 脡XITO: ID_Cliente 5 reserv贸 Asesor铆a Python. Total: $576.0
+2026-05-09 19:45:18,305 - INFO - 脡XITO: ID_Cliente 6 reserv贸 PC Alta Gama. Total: $40
+2026-05-09 19:45:18,306 - INFO - 脡XITO: ID_Cliente 7 reserv贸 Sala de Juntas VIP. Total: $150
+2026-05-09 19:45:18,308 - INFO - 脡XITO: ID_Cliente 8 reserv贸 PC Alta Gama. Total: $225.0
+2026-05-09 19:45:18,309 - ERROR - Error en Reserva: La duraci贸n (0) es inv谩lida.
+2026-05-09 19:45:18,310 - INFO - 脡XITO: ID_Cliente 10 reserv贸 Asesor铆a Python. Total: $240

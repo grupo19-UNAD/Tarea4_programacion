@@ -1,0 +1,27 @@
+2026-05-09 19:45:18,302 - INFO - ÉXITO: ID_Cliente 1 reservó Sala de Juntas VIP. Total: $225
+2026-05-09 19:45:18,302 - INFO - ÉXITO: ID_Cliente 2 reservó PC Alta Gama. Total: $105.0
+2026-05-09 19:45:18,303 - ERROR - Error en Reserva: La duración (-5) es inválida.
+2026-05-09 19:45:18,305 - INFO - ÉXITO: ID_Cliente 5 reservó Asesoría Python. Total: $576.0
+2026-05-09 19:45:18,305 - INFO - ÉXITO: ID_Cliente 6 reservó PC Alta Gama. Total: $40
+2026-05-09 19:45:18,306 - INFO - ÉXITO: ID_Cliente 7 reservó Sala de Juntas VIP. Total: $150
+2026-05-09 19:45:18,308 - INFO - ÉXITO: ID_Cliente 8 reservó PC Alta Gama. Total: $225.0
+2026-05-09 19:45:18,309 - ERROR - Error en Reserva: La duración (0) es inválida.
+2026-05-09 19:45:18,310 - INFO - ÉXITO: ID_Cliente 10 reservó Asesoría Python. Total: $240
+2026-05-10 13:15:45,672 - INFO - ÉXITO: ID_Cliente 1 reservó Sala de Juntas VIP. Total: $225
+2026-05-10 13:15:45,676 - INFO - ÉXITO: ID_Cliente 2 reservó PC Alta Gama. Total: $105.0
+2026-05-10 13:15:45,677 - ERROR - Error en Reserva: La duración (-5) es inválida.
+2026-05-10 13:15:45,677 - INFO - ÉXITO: ID_Cliente 5 reservó Asesoría Python. Total: $576.0
+2026-05-10 13:15:45,677 - INFO - ÉXITO: ID_Cliente 6 reservó PC Alta Gama. Total: $40
+2026-05-10 13:15:45,678 - INFO - ÉXITO: ID_Cliente 7 reservó Sala de Juntas VIP. Total: $150
+2026-05-10 13:15:45,678 - INFO - ÉXITO: ID_Cliente 8 reservó PC Alta Gama. Total: $225.0
+2026-05-10 13:15:45,678 - ERROR - Error en Reserva: La duración (0) es inválida.
+2026-05-10 13:15:45,679 - INFO - ÉXITO: ID_Cliente 10 reservó Asesoría Python. Total: $240
+2026-05-10 13:20:01,563 - INFO - ÉXITO: ID_Cliente 1 reservó Sala de Juntas VIP. Total: $225
+2026-05-10 13:20:01,564 - INFO - ÉXITO: ID_Cliente 2 reservó PC Alta Gama. Total: $105.0
+2026-05-10 13:20:01,564 - ERROR - Error en Reserva: La duración (-5) es inválida.
+2026-05-10 13:20:01,564 - INFO - ÉXITO: ID_Cliente 5 reservó Asesoría Python. Total: $576.0
+2026-05-10 13:20:01,565 - INFO - ÉXITO: ID_Cliente 6 reservó PC Alta Gama. Total: $40
+2026-05-10 13:20:01,565 - INFO - ÉXITO: ID_Cliente 7 reservó Sala de Juntas VIP. Total: $150
+2026-05-10 13:20:01,565 - INFO - ÉXITO: ID_Cliente 8 reservó PC Alta Gama. Total: $225.0
+2026-05-10 13:20:01,566 - ERROR - Error en Reserva: La duración (0) es inválida.
+2026-05-10 13:20:01,566 - INFO - ÉXITO: ID_Cliente 10 reservó Asesoría Python. Total: $240

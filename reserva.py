@@ -1,4 +1,3 @@
-# reserva.py
 import logging
 from excepciones import ReservaInvalidaError, SoftwareFJError
 

@@ -1,4 +1,3 @@
-
 from abc import ABC, abstractmethod
 from excepciones import ValidacionDatosError
 

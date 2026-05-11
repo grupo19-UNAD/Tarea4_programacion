@@ -1,4 +1,3 @@
-# excepciones.py
 
 class SoftwareFJError(Exception):
     """Excepción raíz para el sistema Software FJ"""
